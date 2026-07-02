@@ -10,7 +10,7 @@ public class Test_BBBB_1063 {
         HomePagePart homePagePart = new HomePagePart();
 
         // Step 1: Navigate to the homepage
-        homePagePart.openHomePage("https://example.com");
+        homePagePart.openHomePage("https://www.ewe.de");
 
         // Step 2: Verify the footer is visible
         homePagePart.verifyFooterVisible();

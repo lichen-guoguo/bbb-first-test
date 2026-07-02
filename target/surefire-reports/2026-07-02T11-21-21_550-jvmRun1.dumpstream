@@ -1,0 +1,111 @@
+# Created at 2026-07-02T11:21:34.316
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'Downloading WebKit 26.0 (playwright webkit v2248)[2m from https://cdn.playwright.dev/dbazure/download/playwright/builds/webkit/2248/webkit-win64.zip[22m'.
+
+# Created at 2026-07-02T11:21:35.379
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|                                                                                |   0% of 58.7 MiB'.
+
+# Created at 2026-07-02T11:21:36.470
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■                                                                        |  10% of 58.7 MiB'.
+
+# Created at 2026-07-02T11:21:37.719
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■                                                                |  20% of 58.7 MiB'.
+
+# Created at 2026-07-02T11:21:38.699
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■                                                        |  30% of 58.7 MiB'.
+
+# Created at 2026-07-02T11:21:39.690
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                                |  40% of 58.7 MiB'.
+
+# Created at 2026-07-02T11:21:40.693
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                        |  50% of 58.7 MiB'.
+
+# Created at 2026-07-02T11:21:41.965
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                |  60% of 58.7 MiB'.
+
+# Created at 2026-07-02T11:21:43.129
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                        |  70% of 58.7 MiB'.
+
+# Created at 2026-07-02T11:21:44.460
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                |  80% of 58.7 MiB'.
+
+# Created at 2026-07-02T11:21:45.467
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■        |  90% of 58.7 MiB'.
+
+# Created at 2026-07-02T11:21:47.672
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■| 100% of 58.7 MiB'.
+
+# Created at 2026-07-02T11:21:47.673
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'WebKit 26.0 (playwright webkit v2248) downloaded to C:\Users\LICHEN\AppData\Local\ms-playwright\webkit-2248'.
+
+# Created at 2026-07-02T11:21:49.177
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'Downloading FFmpeg (playwright ffmpeg v1011)[2m from https://cdn.playwright.dev/dbazure/download/playwright/builds/ffmpeg/1011/ffmpeg-win64.zip[22m'.
+
+# Created at 2026-07-02T11:21:49.207
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|                                                                                |   0% of 1.3 MiB'.
+
+# Created at 2026-07-02T11:21:49.221
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■                                                                        |  10% of 1.3 MiB'.
+
+# Created at 2026-07-02T11:21:49.243
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■                                                                |  20% of 1.3 MiB'.
+
+# Created at 2026-07-02T11:21:49.263
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■                                                        |  30% of 1.3 MiB'.
+
+# Created at 2026-07-02T11:21:49.277
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                                |  40% of 1.3 MiB'.
+
+# Created at 2026-07-02T11:21:49.297
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                        |  50% of 1.3 MiB'.
+
+# Created at 2026-07-02T11:21:49.313
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                |  61% of 1.3 MiB'.
+
+# Created at 2026-07-02T11:21:49.337
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                        |  70% of 1.3 MiB'.
+
+# Created at 2026-07-02T11:21:49.356
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                |  80% of 1.3 MiB'.
+
+# Created at 2026-07-02T11:21:49.380
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■        |  90% of 1.3 MiB'.
+
+# Created at 2026-07-02T11:21:49.463
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■| 100% of 1.3 MiB'.
+
+# Created at 2026-07-02T11:21:49.464
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'FFmpeg (playwright ffmpeg v1011) downloaded to C:\Users\LICHEN\AppData\Local\ms-playwright\ffmpeg-1011'.
+
+# Created at 2026-07-02T11:21:49.769
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'Downloading Winldd (playwright winldd v1007)[2m from https://cdn.playwright.dev/dbazure/download/playwright/builds/winldd/1007/winldd-win64.zip[22m'.
+
+# Created at 2026-07-02T11:21:49.769
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|                                                                                |   1% of 0.1 MiB'.
+
+# Created at 2026-07-02T11:21:49.772
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■                                                                        |  10% of 0.1 MiB'.
+
+# Created at 2026-07-02T11:21:49.780
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■                                                                |  24% of 0.1 MiB'.
+
+# Created at 2026-07-02T11:21:49.782
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■                                                        |  37% of 0.1 MiB'.
+
+# Created at 2026-07-02T11:21:49.784
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                        |  50% of 0.1 MiB'.
+
+# Created at 2026-07-02T11:21:49.789
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                |  63% of 0.1 MiB'.
+
+# Created at 2026-07-02T11:21:49.798
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                        |  75% of 0.1 MiB'.
+
+# Created at 2026-07-02T11:21:49.799
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                |  88% of 0.1 MiB'.
+
+# Created at 2026-07-02T11:21:49.854
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■| 100% of 0.1 MiB'.
+
+# Created at 2026-07-02T11:21:53.336
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'Winldd (playwright winldd v1007) downloaded to C:\Users\LICHEN\AppData\Local\ms-playwright\winldd-1007'.
+

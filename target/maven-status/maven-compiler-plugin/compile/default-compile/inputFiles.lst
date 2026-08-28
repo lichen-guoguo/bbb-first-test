@@ -1,4 +1,7 @@
-C:\Users\LICHEN\Projekte\bbb\BBB\playwright_tests\JIRA\BBBB\src\main\java\com\btcag\generated\pageobjects\BasePageObject.java
-C:\Users\LICHEN\Projekte\bbb\BBB\playwright_tests\JIRA\BBBB\src\main\java\com\btcag\generated\pageobjects\HomePage.java
-C:\Users\LICHEN\Projekte\bbb\BBB\playwright_tests\JIRA\BBBB\src\main\java\com\btcag\generated\parts\HomePagePart.java
-C:\Users\LICHEN\Projekte\bbb\BBB\playwright_tests\JIRA\BBBB\src\main\java\com\btcag\generated\util\AllureUtils.java
+C:\Users\LICHEN\Projekte\BBB\master\backend\playwright_tests\JIRA\BBBB\src\main\java\com\btcag\generated\data\TestData.java
+C:\Users\LICHEN\Projekte\BBB\master\backend\playwright_tests\JIRA\BBBB\src\main\java\com\btcag\generated\pageobjects\BasePageObject.java
+C:\Users\LICHEN\Projekte\BBB\master\backend\playwright_tests\JIRA\BBBB\src\main\java\com\btcag\generated\pageobjects\HomePageObject.java
+C:\Users\LICHEN\Projekte\BBB\master\backend\playwright_tests\JIRA\BBBB\src\main\java\com\btcag\generated\pageobjects\ServicePageObject.java
+C:\Users\LICHEN\Projekte\BBB\master\backend\playwright_tests\JIRA\BBBB\src\main\java\com\btcag\generated\part\HomePart.java
+C:\Users\LICHEN\Projekte\BBB\master\backend\playwright_tests\JIRA\BBBB\src\main\java\com\btcag\generated\part\ServicePart.java
+C:\Users\LICHEN\Projekte\BBB\master\backend\playwright_tests\JIRA\BBBB\src\main\java\com\btcag\generated\util\AllureUtils.java

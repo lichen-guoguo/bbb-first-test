@@ -1,4 +1,7 @@
 com\btcag\generated\util\AllureUtils.class
-com\btcag\generated\pageobjects\HomePage.class
+com\btcag\generated\part\HomePart.class
 com\btcag\generated\pageobjects\BasePageObject.class
-com\btcag\generated\parts\HomePagePart.class
+com\btcag\generated\pageobjects\HomePageObject.class
+com\btcag\generated\data\TestData.class
+com\btcag\generated\part\ServicePart.class
+com\btcag\generated\pageobjects\ServicePageObject.class

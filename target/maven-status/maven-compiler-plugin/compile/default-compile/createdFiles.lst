@@ -1,4 +1,4 @@
+com\btcag\generated\parts\EweFooterPart.class
 com\btcag\generated\util\AllureUtils.class
-com\btcag\generated\pageobjects\HomePage.class
 com\btcag\generated\pageobjects\BasePageObject.class
-com\btcag\generated\parts\HomePagePart.class
+com\btcag\generated\pageobjects\EweHomePageObject.class

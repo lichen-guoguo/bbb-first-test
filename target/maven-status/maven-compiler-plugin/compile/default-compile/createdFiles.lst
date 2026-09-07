@@ -1,4 +1,5 @@
+com\btcag\generated\data\TestData.class
+com\btcag\generated\parts\EweCookiePart.class
 com\btcag\generated\util\AllureUtils.class
-com\btcag\generated\pageobjects\HomePage.class
+com\btcag\generated\pageobjects\EweHomepagePageObject.class
 com\btcag\generated\pageobjects\BasePageObject.class
-com\btcag\generated\parts\HomePagePart.class

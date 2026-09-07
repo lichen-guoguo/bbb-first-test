@@ -1,0 +1,117 @@
+# Created at 2026-09-08T00:29:27.884
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'Downloading Chrome for Testing 145.0.7632.6 (playwright chromium v1208)[2m from https://cdn.playwright.dev/chrome-for-testing-public/145.0.7632.6/win64/chrome-win64.zip[22m'.
+
+# Created at 2026-09-08T00:29:30.062
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|                                                                                |   0% of 172.8 MiB'.
+
+# Created at 2026-09-08T00:29:31.532
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■                                                                        |  10% of 172.8 MiB'.
+
+# Created at 2026-09-08T00:29:32.982
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■                                                                |  20% of 172.8 MiB'.
+
+# Created at 2026-09-08T00:29:34.625
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■                                                        |  30% of 172.8 MiB'.
+
+# Created at 2026-09-08T00:29:36.101
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                                |  40% of 172.8 MiB'.
+
+# Created at 2026-09-08T00:29:37.566
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                        |  50% of 172.8 MiB'.
+
+# Created at 2026-09-08T00:29:38.921
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                |  60% of 172.8 MiB'.
+
+# Created at 2026-09-08T00:29:40.302
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                        |  70% of 172.8 MiB'.
+
+# Created at 2026-09-08T00:29:41.683
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                |  80% of 172.8 MiB'.
+
+# Created at 2026-09-08T00:29:43.159
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■        |  90% of 172.8 MiB'.
+
+# Created at 2026-09-08T00:29:47.875
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■| 100% of 172.8 MiB'.
+
+# Created at 2026-09-08T00:29:47.877
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'Chrome for Testing 145.0.7632.6 (playwright chromium v1208) downloaded to C:\Users\LICHEN\AppData\Local\ms-playwright\chromium-1208'.
+
+# Created at 2026-09-08T00:29:48.491
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'Downloading Chrome Headless Shell 145.0.7632.6 (playwright chromium-headless-shell v1208)[2m from https://cdn.playwright.dev/chrome-for-testing-public/145.0.7632.6/win64/chrome-headless-shell-win64.zip[22m'.
+
+# Created at 2026-09-08T00:29:50.643
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|                                                                                |   0% of 108.8 MiB'.
+
+# Created at 2026-09-08T00:29:52.319
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■                                                                        |  10% of 108.8 MiB'.
+
+# Created at 2026-09-08T00:29:54.127
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■                                                                |  20% of 108.8 MiB'.
+
+# Created at 2026-09-08T00:29:55.839
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■                                                        |  30% of 108.8 MiB'.
+
+# Created at 2026-09-08T00:29:57.383
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                                |  40% of 108.8 MiB'.
+
+# Created at 2026-09-08T00:29:58.987
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                        |  50% of 108.8 MiB'.
+
+# Created at 2026-09-08T00:30:00.516
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                |  60% of 108.8 MiB'.
+
+# Created at 2026-09-08T00:30:02.136
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                        |  70% of 108.8 MiB'.
+
+# Created at 2026-09-08T00:30:03.692
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                |  80% of 108.8 MiB'.
+
+# Created at 2026-09-08T00:30:05.404
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■        |  90% of 108.8 MiB'.
+
+# Created at 2026-09-08T00:30:08.699
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■| 100% of 108.8 MiB'.
+
+# Created at 2026-09-08T00:30:08.700
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'Chrome Headless Shell 145.0.7632.6 (playwright chromium-headless-shell v1208) downloaded to C:\Users\LICHEN\AppData\Local\ms-playwright\chromium_headless_shell-1208'.
+
+# Created at 2026-09-08T00:30:09.157
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'Downloading WebKit 26.0 (playwright webkit v2248)[2m from https://cdn.playwright.dev/dbazure/download/playwright/builds/webkit/2248/webkit-win64.zip[22m'.
+
+# Created at 2026-09-08T00:30:09.750
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|                                                                                |   0% of 58.7 MiB'.
+
+# Created at 2026-09-08T00:30:10.205
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■                                                                        |  10% of 58.7 MiB'.
+
+# Created at 2026-09-08T00:30:10.714
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■                                                                |  20% of 58.7 MiB'.
+
+# Created at 2026-09-08T00:30:11.184
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■                                                        |  30% of 58.7 MiB'.
+
+# Created at 2026-09-08T00:30:11.685
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                                |  40% of 58.7 MiB'.
+
+# Created at 2026-09-08T00:30:12.165
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                        |  50% of 58.7 MiB'.
+
+# Created at 2026-09-08T00:30:12.668
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                |  60% of 58.7 MiB'.
+
+# Created at 2026-09-08T00:30:13.188
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                        |  70% of 58.7 MiB'.
+
+# Created at 2026-09-08T00:30:13.659
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                |  80% of 58.7 MiB'.
+
+# Created at 2026-09-08T00:30:14.121
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■        |  90% of 58.7 MiB'.
+
+# Created at 2026-09-08T00:30:17.115
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■| 100% of 58.7 MiB'.
+
+# Created at 2026-09-08T00:30:21.121
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'WebKit 26.0 (playwright webkit v2248) downloaded to C:\Users\LICHEN\AppData\Local\ms-playwright\webkit-2248'.
+

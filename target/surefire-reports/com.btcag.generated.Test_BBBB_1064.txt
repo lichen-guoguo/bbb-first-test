@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.btcag.generated.Test_BBBB_1064
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.31 s -- in com.btcag.generated.Test_BBBB_1064

@@ -3,11 +3,11 @@
 <suite name="Failed suite [Surefire suite]" verbose="0">
   <test thread-count="5" name="Surefire test(failed)" verbose="0">
     <classes>
-      <class name="com.btcag.generated.Test_BBBB_1063">
+      <class name="com.btcag.generated.Test_BBBB_1064">
         <methods>
-          <include name="testFooterAndImpressum"/>
+          <include name="testNoLoginButtonAfterCookieRejection"/>
         </methods>
-      </class> <!-- com.btcag.generated.Test_BBBB_1063 -->
+      </class> <!-- com.btcag.generated.Test_BBBB_1064 -->
     </classes>
   </test> <!-- Surefire test(failed) -->
 </suite> <!-- Failed suite [Surefire suite] -->
